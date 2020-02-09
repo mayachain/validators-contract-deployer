@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "kovan-validator-set": "git+https://github.com:madwiki/kovan-validator-set.git",
+    "kovan-validator-set": "git+https://github.com/mayachain/kovan-validator-set.git",
     "solc": "~0.5.16",
     "web3": "^1.2.5-rc.0"
   },
