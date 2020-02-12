@@ -101,4 +101,5 @@ async function depoloyContracts() {
     .setRelayed(relayedOwnedSetAddress)
     .send({ gas });
   const validators = await relaySetInstance.methods.getValidators().call();
+  console.log(JSON.stringify({ relaysetAddress }));
 }
