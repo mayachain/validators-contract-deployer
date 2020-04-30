@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "kovan-validator-set": "git+https://github.com/mayachain/kovan-validator-set.git",
-    "solc": "~0.5.16",
+    "solc": "0.5.16",
     "web3": "^1.2.5-rc.0"
   },
   "author": "",
